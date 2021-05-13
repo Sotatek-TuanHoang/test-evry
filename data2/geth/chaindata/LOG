@@ -1,0 +1,26 @@
+=============== May 13, 2021 (+07) ===============
+11:08:35.079493 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:08:35.085511 db@open opening
+11:08:35.086939 version@stat F·[] S·0B[] Sc·[]
+11:08:35.088577 db@janitor F·2 G·0
+11:08:35.088606 db@open done T·3.076994ms
+=============== May 13, 2021 (+07) ===============
+11:08:37.916246 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:08:37.916458 version@stat F·[] S·0B[] Sc·[]
+11:08:37.916483 db@open opening
+11:08:37.916531 journal@recovery F·1
+11:08:37.918260 journal@recovery recovering @1
+11:08:37.941849 memdb@flush created L0@2 N·21261 S·1MiB "\x00\x01A..\xb9\xe9\xc1,v11536":"\xff\xfd\xb4..\xe0\xee\x1c,v19017"
+11:08:37.942964 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+11:08:37.947614 db@janitor F·3 G·0
+11:08:37.947642 db@open done T·31.143756ms
+=============== May 13, 2021 (+07) ===============
+11:08:50.690776 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+11:08:50.690892 version@stat F·[1] S·1MiB[1MiB] Sc·[0.25]
+11:08:50.690909 db@open opening
+11:08:50.690937 journal@recovery F·1
+11:08:50.692329 journal@recovery recovering @3
+11:08:50.701517 memdb@flush created L0@5 N·2 S·510B "Las..der,v21264":"eth..\xea\x17\xb6,v21263"
+11:08:50.702770 version@stat F·[2] S·1MiB[1MiB] Sc·[0.50]
+11:08:50.707193 db@janitor F·4 G·0
+11:08:50.707210 db@open done T·16.29417ms
